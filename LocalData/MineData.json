@@ -1,0 +1,51 @@
+{
+	"data": {
+		"avatorImage": "icon",
+		"nickName" : "kitty猫",
+		"vipImage" : "avatar_vip",
+		"items": [
+			{
+				"number": 100,
+				"item": "优惠券"
+			},
+			{
+				"number": 12,
+				"item":"评价"
+			},
+			{
+				"number": 50,
+				"item":"收藏"
+			}
+		]
+	},
+	"mydata": [
+		{
+			"imageUrl": "order1",
+			"title": "待付款"
+		},
+		{
+			"imageUrl": "order2",
+			"title": "待使用"
+		},
+		{
+			"imageUrl":"order3",
+			"title": "待评价"
+		},
+		{
+			"imageUrl": "order4",
+			"title": "退款/售后"
+		},
+		{
+			"imageUrl": "order4",
+			"title": "退款/售后"
+		},
+		{
+			"imageUrl": "order4",
+			"title": "退款/售后"
+		},
+		{
+			"imageUrl": "order4",
+			"title": "退款/售后"
+		}
+	]
+}
